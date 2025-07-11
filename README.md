@@ -77,6 +77,7 @@ The notebook will:
 
 - Compare outputs with and without parameters
 
+---
 
-Author
-Satya Abdul Halim Bahtiar
+##Author
+##Satya Abdul Halim Bahtiar
