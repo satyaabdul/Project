@@ -65,3 +65,18 @@ For each customer message, the model performs:
    ```python
    from google.colab import userdata
    userdata.set("api_token", "your_replicate_token")
+2. Run all cells from top to bottom.
+
+The notebook will:
+
+- Load the dataset from Kaggle
+
+- Generate prompts per tweet
+
+- Send them to IBM Granite
+
+- Compare outputs with and without parameters
+
+
+Author
+Satya Abdul Halim Bahtiar
